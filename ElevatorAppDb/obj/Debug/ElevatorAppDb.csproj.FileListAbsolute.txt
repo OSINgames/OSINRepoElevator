@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Projekt3\ElevatorAppDb\bin\Debug\ElevatorAppDb.exe.config
+C:\Users\PC\Desktop\Projekt3\ElevatorAppDb\bin\Debug\ElevatorAppDb.exe
+C:\Users\PC\Desktop\Projekt3\ElevatorAppDb\bin\Debug\ElevatorAppDb.pdb
+C:\Users\PC\Desktop\Projekt3\ElevatorAppDb\obj\Debug\ElevatorAppDb.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Projekt3\ElevatorAppDb\obj\Debug\ElevatorAppDb.Form1.resources
+C:\Users\PC\Desktop\Projekt3\ElevatorAppDb\obj\Debug\ElevatorAppDb.Properties.Resources.resources
+C:\Users\PC\Desktop\Projekt3\ElevatorAppDb\obj\Debug\ElevatorAppDb.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Projekt3\ElevatorAppDb\obj\Debug\ElevatorAppDb.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projekt3\ElevatorAppDb\obj\Debug\ElevatorAppDb.exe
+C:\Users\PC\Desktop\Projekt3\ElevatorAppDb\obj\Debug\ElevatorAppDb.pdb

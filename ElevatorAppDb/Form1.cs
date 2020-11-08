@@ -1,17 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 using System.Data.OleDb;
-namespace ElevatorAppMk3
+using System.Windows.Forms;
+namespace ElevatorAppDb
 {
     public partial class Form1 : Form
     {
+        public int ID = 1;
         private const int V = 237;
         private const int V1 = 160;
         private const int V2 = 60;
@@ -27,7 +22,7 @@ namespace ElevatorAppMk3
             InitializeComponent();
         }
 
-       
+
 
         private void openDrBtn_Click(object sender, EventArgs e)
         {
@@ -186,8 +181,8 @@ namespace ElevatorAppMk3
 
         private void historyDisplay_Click(object sender, EventArgs e)
         {
-            var con = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\PC\Desktop\ElevatorProject\Database.Elevator.mdb");
-            OldDbDataAdapter ada = new OldDbDataAdapter("SELECT * FROM Elevator" , con );
+            OleDbConnection con = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\PC\Desktop\ElevatorProject\Database.Elevator.mdb");
+            OleDbDataAdapter ada = new OleDbDataAdapter("SELECT * FROM Elevator", con);
             DataSet set = new DataSet();
             ada.Fill(set, "Elevator");
 
@@ -196,5 +191,11 @@ namespace ElevatorAppMk3
 
             dataDisplay.DataSource = tab;
         }
+
+       
     }
-}
+
+   
+    }
+
+
