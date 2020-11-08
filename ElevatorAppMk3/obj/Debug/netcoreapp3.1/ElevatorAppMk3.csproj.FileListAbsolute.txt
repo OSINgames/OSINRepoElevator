@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\bin\Debug\netcoreapp3.1\ElevatorAppMk3.exe
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\bin\Debug\netcoreapp3.1\ElevatorAppMk3.deps.json
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\bin\Debug\netcoreapp3.1\ElevatorAppMk3.runtimeconfig.json
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\bin\Debug\netcoreapp3.1\ElevatorAppMk3.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\bin\Debug\netcoreapp3.1\ElevatorAppMk3.dll
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\bin\Debug\netcoreapp3.1\ElevatorAppMk3.pdb
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\obj\Debug\netcoreapp3.1\ElevatorAppMk3.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\obj\Debug\netcoreapp3.1\ElevatorAppMk3.Form1.resources
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\obj\Debug\netcoreapp3.1\ElevatorAppMk3.Properties.Resources.resources
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\obj\Debug\netcoreapp3.1\ElevatorAppMk3.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\obj\Debug\netcoreapp3.1\ElevatorAppMk3.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\obj\Debug\netcoreapp3.1\ElevatorAppMk3.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\obj\Debug\netcoreapp3.1\ElevatorAppMk3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\obj\Debug\netcoreapp3.1\ElevatorAppMk3.dll
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\obj\Debug\netcoreapp3.1\ElevatorAppMk3.pdb
+C:\Users\PC\Desktop\Projekt3\ElevatorAppMk3\obj\Debug\netcoreapp3.1\ElevatorAppMk3.genruntimeconfig.cache
